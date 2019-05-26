@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,qBACE,kBAAmB,CACnB,eAAgB,CAChB,sBAAuB,CACvB,eACF","file":"main.da389c1c.chunk.css","sourcesContent":[".address-width-limit {\n  white-space: nowrap;\n  overflow: hidden;\n  text-overflow: ellipsis;\n  max-width: 350px;\n}\n"]}
