@@ -2,7 +2,7 @@
   "name": "warsawjs-workshop-32-book-it",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://workshop-32.anjasudol.now.sh",
+  "homepage": "https://workshop-32.anjasudol.now.sh/",
   "dependencies": {
     "@reach/router": "^1.2.1",
     "axios": "^0.18.0",
